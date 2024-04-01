@@ -1,0 +1,11 @@
+ 1) How to Run Frontend
+
+* Clone project in visual studio or IntelliJ
+* It will run on port http://localhost:3000/
+
+2) How to Run Backend
+
+* Import the project in Spring Tool Suite or IntelliJ
+* Change the application properties file to your local database
+* Run as spring boot project
+* It will run on port 8082
