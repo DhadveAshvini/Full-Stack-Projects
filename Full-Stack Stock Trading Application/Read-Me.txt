@@ -1,0 +1,16 @@
+Initialisaton:
+To run full-stack trading application u need to first run your backend project and application.properties file as needed 
+(change database localhost port number number ,username,password) then run your frontend project and It shows data
+-----------------------------------------------------------------------
+1) How to Run Frontend
+
+* Clone project in visual studio or IntelliJ
+* It will run on port http://localhost:3000/
+-----------------------------------------------------------------------
+2) How to Run Backend
+
+* Import the project in Spring Tool Suite or IntelliJ
+* Change the application properties file to your local database
+* Run as spring boot project
+* It will run on port 8082
+------------------------------------------------------------------------
